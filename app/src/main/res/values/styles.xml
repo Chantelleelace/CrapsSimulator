@@ -9,7 +9,7 @@
   </style>
 
   <style name="tally" parent="AppTheme">
-    <item name="android:textSize">20dp</item>
+    <item name="android:textSize">16dp</item>
     <item name="android:layout_margin">8dp</item>
   </style>
 
